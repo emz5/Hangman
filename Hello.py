@@ -1,4 +1,6 @@
-import requests
+import random
 
-r = requests.get('https://google.com')
-print(r.status_code)
+wordlist = list()
+wordlist = [word.rstrip("\n") for word in open("Hangman_Words.txt")]
+index = random.randint(0, 212)
+print(wordlist[index])
