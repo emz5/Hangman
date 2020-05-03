@@ -1,0 +1,39 @@
+Archery
+Badminton
+Cricket
+Bowling
+Boxing
+Curling
+Tennis
+Skateboarding
+Surfing
+Hockey
+Yoga
+Fencing
+Fitness
+Gymnastics
+Karate
+Volleyball
+Weightlifting
+Basketball
+Baseball
+Rugby
+Wrestling
+High jumping
+Hang gliding
+Car racing
+Cycling
+Running
+Table tennis
+Fishing
+Judo
+Climbing
+Pool
+Shooting
+Horse racing
+Horseback riding
+Golf
+Soccer
+Ballet
+Ice skating
+Figure skating
